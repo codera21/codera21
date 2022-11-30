@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👨‍💼 Backend Developer with specialization in building Distrubuted Systems. 
+
+- 💙 Gopher
+- ✨ Other Languages: Py, TS/JS, PHP
+- 
 <!--
 **codera21/codera21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
