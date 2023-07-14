@@ -1,3 +1,11 @@
 ### Hi there 👋
 
-👨‍💼 Backend Developer with specialization in building Distrubuted Systems.
+👨‍💼 Backend Developer
+📃 Data Engineer
+
+## Tech Stack
+['python' ,  'typescript' ,  'go']
+
+
+## Learning 
+['kubernetes' , 'scala' , 'apache spark' ,  'react']
