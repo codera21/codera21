@@ -6,6 +6,3 @@
 ## Tech Stack
 ['python' ,  'typescript' ,  'go']
 
-
-## Learning 
-['kubernetes' , 'scala' , 'apache spark' ,  'react']
